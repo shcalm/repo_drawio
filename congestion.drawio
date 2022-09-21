@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-21T07:12:49.320Z" agent="5.0 (X11)" etag="iQaaOz94u_TJPMnqviJd" version="20.0.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-09-21T07:18:39.479Z" agent="5.0 (X11)" etag="WKT5ViMuIbH0r70CUV72" version="20.0.3" type="github" pages="7">
   <diagram id="kv4sRWJK2MEcREDBGArZ" name="init">
     <mxGraphModel dx="1350" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -192,26 +192,37 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9HtuahP9DEl2pgOe63Ys-13" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontColor=#1A1A1A;strokeWidth=2;rounded=1;" edge="1" parent="1" source="9HtuahP9DEl2pgOe63Ys-1" target="9HtuahP9DEl2pgOe63Ys-6">
+        <mxCell id="9HtuahP9DEl2pgOe63Ys-13" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#1A1A1A;strokeWidth=2;rounded=1;" edge="1" parent="1" source="9HtuahP9DEl2pgOe63Ys-1" target="9HtuahP9DEl2pgOe63Ys-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9HtuahP9DEl2pgOe63Ys-1" value="&lt;div style=&quot;color: rgb(51, 51, 51); background-color: rgb(245, 245, 245); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-weight: normal; font-size: 17.6px; line-height: 24px;&quot;&gt;&lt;div&gt;AcknowledgedBitrateEstimator&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="220" y="240" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9HtuahP9DEl2pgOe63Ys-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=14;fontColor=#1A1A1A;strokeWidth=2;" edge="1" parent="1" source="9HtuahP9DEl2pgOe63Ys-2" target="9HtuahP9DEl2pgOe63Ys-6">
+        <mxCell id="9HtuahP9DEl2pgOe63Ys-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=14;fontColor=#1A1A1A;strokeWidth=2;" edge="1" parent="1" source="9HtuahP9DEl2pgOe63Ys-2" target="9HtuahP9DEl2pgOe63Ys-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9HtuahP9DEl2pgOe63Ys-2" value="&lt;div style=&quot;color: rgb(51, 51, 51); background-color: rgb(245, 245, 245); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-weight: normal; font-size: 17.6px; line-height: 24px;&quot;&gt;&lt;div&gt;AlrDetector&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="220" y="360" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9HtuahP9DEl2pgOe63Ys-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=14;fontColor=#1A1A1A;strokeWidth=2;" edge="1" parent="1" source="9HtuahP9DEl2pgOe63Ys-3" target="9HtuahP9DEl2pgOe63Ys-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="9HtuahP9DEl2pgOe63Ys-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#1A1A1A;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9HtuahP9DEl2pgOe63Ys-3" target="9HtuahP9DEl2pgOe63Ys-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="520" />
+              <mxPoint x="610" y="330" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="9HtuahP9DEl2pgOe63Ys-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontColor=#1A1A1A;strokeWidth=2;" edge="1" parent="1" source="9HtuahP9DEl2pgOe63Ys-3" target="9HtuahP9DEl2pgOe63Ys-7">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="520" />
+              <mxPoint x="640" y="470" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="9HtuahP9DEl2pgOe63Ys-3" value="&lt;div style=&quot;color: rgb(51, 51, 51); background-color: rgb(245, 245, 245); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-weight: normal; font-size: 17.6px; line-height: 24px;&quot;&gt;&lt;div&gt;ProbeController&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="230" y="490" width="300" height="60" as="geometry" />
+          <mxGeometry x="220" y="490" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9HtuahP9DEl2pgOe63Ys-6" value="&lt;div style=&quot;color: rgb(51, 51, 51); background-color: rgb(245, 245, 245); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-weight: normal; font-size: 17.6px; line-height: 24px;&quot;&gt;&lt;div&gt;DelayBasedBwe&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="670" y="300" width="300" height="60" as="geometry" />
@@ -233,6 +244,9 @@
         </mxCell>
         <mxCell id="9HtuahP9DEl2pgOe63Ys-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=14;fontColor=#1A1A1A;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1030" y="340" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9HtuahP9DEl2pgOe63Ys-19" value="&lt;div style=&quot;color: rgb(51, 51, 51); background-color: rgb(245, 245, 245); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-weight: normal; font-size: 17.6px; line-height: 24px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #7a3e9d;&quot;&gt;target_bitrate&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="970" y="270" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
