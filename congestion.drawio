@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-21T07:22:10.415Z" agent="5.0 (X11)" etag="IrAw3IkwaxQ_P9obwuwV" version="20.0.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-09-21T07:25:26.255Z" agent="5.0 (X11)" etag="boiDYHVEByyItSDbSPcd" version="20.0.3" type="github" pages="7">
   <diagram id="kv4sRWJK2MEcREDBGArZ" name="init">
     <mxGraphModel dx="1350" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -259,6 +259,9 @@
         </mxCell>
         <mxCell id="9HtuahP9DEl2pgOe63Ys-22" value="&lt;div style=&quot;color: rgb(51, 51, 51); background-color: rgb(245, 245, 245); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-weight: normal; font-size: 17.6px; line-height: 24px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #7a3e9d;&quot;&gt;stable_target_bitrate&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="1080" y="580" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9HtuahP9DEl2pgOe63Ys-24" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Min&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="540" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
