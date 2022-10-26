@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T06:06:16.165Z" agent="5.0 (X11)" etag="wKie-LtzAkSO4YwuqXmy" version="20.3.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-10-26T06:09:12.794Z" agent="5.0 (X11)" etag="txkhhFUZchN59rOSiTTo" version="20.3.6" type="github" pages="8">
   <diagram id="kv4sRWJK2MEcREDBGArZ" name="init">
     <mxGraphModel dx="1350" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -319,6 +319,36 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WfiTMRJCe26zbCy0wCVB-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="40" width="245" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="WfiTMRJCe26zbCy0wCVB-3" value="AddTrack" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="75" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WfiTMRJCe26zbCy0wCVB-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="240" width="240" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="WfiTMRJCe26zbCy0wCVB-5" value="CreateOffer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WfiTMRJCe26zbCy0wCVB-6" value="SetLocalDisc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="505" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WfiTMRJCe26zbCy0wCVB-7" value="CreateOffer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="770" y="310" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WfiTMRJCe26zbCy0wCVB-8" value="SetRemoteDesc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="760" y="500" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WfiTMRJCe26zbCy0wCVB-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="240" width="240" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="WfiTMRJCe26zbCy0wCVB-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="445" width="240" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="WfiTMRJCe26zbCy0wCVB-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="440" width="240" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
